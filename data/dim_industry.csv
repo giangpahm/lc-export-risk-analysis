@@ -1,0 +1,98 @@
+﻿HS2,HS_Desc,Industry_Group
+01,Animals; live,Nông - Thủy sản
+02,Meat and edible meat offal,Nông - Thủy sản
+03,"Fish and crustaceans, molluscs and other aquatic invertebrates",Nông - Thủy sản
+04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",Nông - Thủy sản
+05,Animal originated products; not elsewhere specified or included,Nông - Thủy sản
+06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",Nông - Thủy sản
+07,Vegetables and certain roots and tubers; edible,Nông - Thủy sản
+08,"Fruit and nuts, edible; peel of citrus fruit or melons",Nông - Thủy sản
+09,"Coffee, tea, mate and spices",Nông - Thủy sản
+10,Cereals,Nông - Thủy sản
+11,"Products of the milling industry; malt, starches, inulin, wheat gluten",Nông - Thủy sản
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",Nông - Thủy sản
+13,"Lac; gums, resins and other vegetable saps and extracts",Nông - Thủy sản
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,Nông - Thủy sản
+15,"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",Thực phẩm chế biến
+16,"Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",Thực phẩm chế biến
+17,Sugars and sugar confectionery,Thực phẩm chế biến
+18,Cocoa and cocoa preparations,Thực phẩm chế biến
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",Thực phẩm chế biến
+20,"Preparations of vegetables, fruit, nuts or other parts of plants",Thực phẩm chế biến
+21,Miscellaneous edible preparations,Thực phẩm chế biến
+22,"Beverages, spirits and vinegar",Thực phẩm chế biến
+23,"Food industries, residues and wastes thereof; prepared animal fodder",Thực phẩm chế biến
+24,"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",Thực phẩm chế biến
+25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",Khoáng sản & Năng lượng
+26,"Ores, slag and ash",Khoáng sản & Năng lượng
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",Khoáng sản & Năng lượng
+28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",Hóa chất & Nhựa
+29,Organic chemicals,Hóa chất & Nhựa
+30,Pharmaceutical products,Hóa chất & Nhựa
+31,Fertilizers,Hóa chất & Nhựa
+32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",Hóa chất & Nhựa
+33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",Hóa chất & Nhựa
+34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",Hóa chất & Nhựa
+35,Albuminoidal substances; modified starches; glues; enzymes,Hóa chất & Nhựa
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,Hóa chất & Nhựa
+37,Photographic or cinematographic goods,Hóa chất & Nhựa
+38,Chemical products n.e.c.,Hóa chất & Nhựa
+39,Plastics and articles thereof,Hóa chất & Nhựa
+40,Rubber and articles thereof,Hóa chất & Nhựa
+41,Raw hides and skins (other than furskins) and leather,Dệt may - Da giày
+42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",Dệt may - Da giày
+43,Furskins and artificial fur; manufactures thereof,Dệt may - Da giày
+44,Wood and articles of wood; wood charcoal,Gỗ - Giấy - Nội thất
+45,Cork and articles of cork,Hàng tiêu dùng
+46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",Hàng tiêu dùng
+47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,Gỗ - Giấy - Nội thất
+48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",Gỗ - Giấy - Nội thất
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",Hàng tiêu dùng
+50,Silk,Dệt may - Da giày
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",Dệt may - Da giày
+52,Cotton,Dệt may - Da giày
+53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,Dệt may - Da giày
+54,Man-made filaments; strip and the like of man-made textile materials,Dệt may - Da giày
+55,Man-made staple fibres,Dệt may - Da giày
+56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",Dệt may - Da giày
+57,Carpets and other textile floor coverings,Dệt may - Da giày
+58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",Dệt may - Da giày
+59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",Dệt may - Da giày
+60,Fabrics; knitted or crocheted,Dệt may - Da giày
+61,Apparel and clothing accessories; knitted or crocheted,Dệt may - Da giày
+62,Apparel and clothing accessories; not knitted or crocheted,Dệt may - Da giày
+63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",Dệt may - Da giày
+64,Footwear; gaiters and the like; parts of such articles,Dệt may - Da giày
+65,Headgear and parts thereof,Dệt may - Da giày
+66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",Dệt may - Da giày
+67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",Dệt may - Da giày
+68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",Đá - Thủy tinh - VL xây dựng
+69,Ceramic products,Đá - Thủy tinh - VL xây dựng
+70,Glass and glassware,Đá - Thủy tinh - VL xây dựng
+71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",Kim loại
+72,Iron and steel,Kim loại
+73,Iron or steel articles,Kim loại
+74,Copper and articles thereof,Kim loại
+75,Nickel and articles thereof,Kim loại
+76,Aluminium and articles thereof,Kim loại
+78,Lead and articles thereof,Kim loại
+79,Zinc and articles thereof,Kim loại
+80,Tin; articles thereof,Kim loại
+81,"Metals; n.e.c., cermets and articles thereof",Kim loại
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",Kim loại
+83,Metal; miscellaneous products of base metal,Kim loại
+84,"Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",Máy móc - Điện tử
+85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",Máy móc - Điện tử
+86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",Phương tiện vận tải
+87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",Phương tiện vận tải
+88,"Aircraft, spacecraft, and parts thereof",Phương tiện vận tải
+89,"Ships, boats and floating structures",Phương tiện vận tải
+90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",Dụng cụ & Thiết bị chuyên dụng
+91,Clocks and watches and parts thereof,Dụng cụ & Thiết bị chuyên dụng
+92,Musical instruments; parts and accessories of such articles,Dụng cụ & Thiết bị chuyên dụng
+93,Arms and ammunition; parts and accessories thereof,Khác
+94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",Gỗ - Giấy - Nội thất
+95,"Toys, games and sports requisites; parts and accessories thereof",Hàng tiêu dùng
+96,Miscellaneous manufactured articles,Hàng tiêu dùng
+97,Works of art; collectors' pieces and antiques,Khác
+99,Commodities not specified according to kind,Khác

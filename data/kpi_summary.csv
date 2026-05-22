@@ -1,0 +1,14 @@
+﻿Industry_Group,Avg_Export_M,Avg_Share_pct,ESI,YoY_Mean,YoY_Std,Recovery_Rate,Recovery_Label,Risk_Score,Risk_Level
+Dệt may - Da giày,64897.26,20.39,0.109,1.76,14.33,1.188,Phục hồi,0.633,Cao
+Dụng cụ & Thiết bị chuyên dụng,4359.56,1.39,0.071,-1.59,20.81,0.776,Chưa phục hồi,0.839,Cao
+Gỗ - Giấy - Nội thất,18406.11,5.72,0.38,8.87,14.44,1.538,Phục hồi mạnh,0.566,Trung bình
+Hàng tiêu dùng,4145.11,1.28,0.402,15.22,22.63,1.89,Phục hồi mạnh,0.531,Trung bình
+Hóa chất & Nhựa,17862.52,5.52,0.394,11.95,18.34,1.648,Phục hồi mạnh,0.544,Trung bình
+Khoáng sản & Năng lượng,5325.18,1.68,0.042,-0.82,18.8,1.106,Phục hồi,0.797,Cao
+Khác,4796.68,1.48,0.242,13.89,43.43,1.276,Phục hồi,0.691,Cao
+Kim loại,18338.96,5.68,0.307,11.4,25.77,1.525,Phục hồi mạnh,0.598,Trung bình
+Máy móc - Điện tử,146009.06,45.3,0.515,10.97,10.32,1.541,Phục hồi mạnh,0.249,Thấp
+Nông - Thủy sản,21687.2,6.79,0.477,6.5,7.11,1.158,Phục hồi,0.58,Trung bình
+Phương tiện vận tải,5412.34,1.68,0.715,12.95,5.17,1.508,Phục hồi mạnh,0.464,Trung bình
+Thực phẩm chế biến,7698.24,2.39,0.649,10.08,5.45,1.423,Phục hồi mạnh,0.499,Trung bình
+Đá - Thủy tinh - VL xây dựng,2227.98,0.7,0.174,3.8,18.05,1.234,Phục hồi,0.73,Cao
